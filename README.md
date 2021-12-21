@@ -8,3 +8,7 @@ floor and the top of the box.
 ![Input image and mask](/images/1/mask.png "Input image and mask")  
 ![Detected planes](/images/1/planes.png "Detected planes")  
 ![Detected corners](/images/1/corners.png "Detected corners")  
+
+# 1. Seam Carving  
+Upscale and downscale images, using Seam Carving method.  
+![Paris upscaling](/images/2/paris_resize.gif "Paris upscaling")  
